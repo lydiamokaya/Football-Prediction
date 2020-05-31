@@ -1,6 +1,6 @@
 # FOOTBALL PREDICTION
-## {A PYTHON PROJECT TO UNDERSTAND ELECTRIC CAR USAGE.}
-### (IP WEEK 4 DATA SCIENCE PREP),(April,2019)
+## {A PYTHON PROJECT TO PREDICT A FOOTBALL MATCH.}
+### (IP WEEK 6 DATA SCIENCE CORE),(31,May,2019)
 ### By(Lydia Kerubo)
 #### Description
 A prediction result of a game between team 1 and team 2, based on who's home and who's away.
