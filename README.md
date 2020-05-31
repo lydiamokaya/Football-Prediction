@@ -32,4 +32,4 @@ Contacts: mokayalydiak@gmail.com}
 #### License
 {MIT License.See below for more details on licencing.}
 
-Copyright(c) {2020}{Moringa School Data Science prep}
+Copyright(c) {2020}{Moringa School Data Science core}
